@@ -1,2 +1,5 @@
 spacy==3.0.6
 python==3.9.0 
+
+#la version correcta del modelo resulto muy grande para poder cargarse a git, se adjunta link de drive con el modelo final
+#https://drive.google.com/drive/folders/17hN_U5QQ5PtuWsVGbXJ4aoMWQH6VS5Sn
